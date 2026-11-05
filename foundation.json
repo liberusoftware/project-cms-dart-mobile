@@ -1,9 +1,9 @@
 {
-  "project": "boilerplate",
+  "project": "cms",
   "presentation": "dart-mobile",
   "foundation": "project-boilerplate-dart-mobile",
-  "foundationCommit": null,
-  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "foundationCommit": "f05499d4dcb263531c51aeae111a734cc0568b5c",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/cms/README.md",
   "status": "skeleton",
   "enabledModules": []
 }
